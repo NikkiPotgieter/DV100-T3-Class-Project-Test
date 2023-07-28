@@ -105,3 +105,9 @@ button {
     position: relative;
     bottom: -100px;
 }
+
+.hero-image2 {
+    height: 95vh; 
+    position: relative;
+    bottom: -50px;
+}
